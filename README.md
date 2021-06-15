@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 ### I like 🧑‍💻
 <div>
@@ -12,23 +10,12 @@
   </div>
   
   
-### Connect Me
+### Connect Me ☎️
 <div>
 <a href="https://velog.io/@devookim" target="_blank"><img src="https://img.shields.io/badge/velog-60C69A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="https://velog.io/@devookim" target="_blank"><img src="https://img.shields.io/badge/Resume-9D549D?style=flat-square&logo=Revolut&logoColor=white"/></a>
 <a href="khwoo8026@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  </div>
-<!--
-**DevooKim/DevooKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+### My Projects ⬇️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
