@@ -20,5 +20,6 @@
 </div>
 
 ### My Projects ⬇️
-
+**[EveryMusic](https://everymusic.devookim.com)**<br>
+**[Khweather](http://khweather.devookim.com)**
 </div>
