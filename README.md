@@ -15,7 +15,7 @@
 ### It\`s ME ☎️
 <div>
 <a href="https://velog.io/@devookim" target="_blank"><img src="https://img.shields.io/badge/velog-60C69A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="https://velog.io/@devookim" target="_blank"><img src="https://img.shields.io/badge/Resume-9D549D?style=flat-square&logo=Revolut&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Resume-9D549D?style=flat-square&logo=Revolut&logoColor=white"/></a>
 <a href="mailto:khwoo8026@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 
